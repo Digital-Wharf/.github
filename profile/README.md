@@ -1,109 +1,184 @@
 <div align="center">
 
-# ⚓ Digital Wharf
+<img src="logo.png" width="180"/>
 
-### Premium Software Agency for Web, Mobile & AI Solutions
+# Digital Wharf
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=D6B75A&center=true&vCenter=true&width=850&lines=We+Build+Premium+Digital+Products;Websites+That+Convert;Applications+That+Scale;AI+Solutions+That+Drive+Growth" alt="Typing SVG" />
+### Premium Software Agency • Web Development • Mobile Apps • AI Solutions
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&color=C9A857&center=true&vCenter=true&width=900&lines=Premium+Websites+for+Ambitious+Brands;Scalable+Applications+Built+to+Grow;Mobile+Experiences+That+Users+Love;AI+Solutions+That+Drive+Results" />
+</p>
 
-**Building high-performing websites, scalable applications, and AI-powered digital products for ambitious brands.**
+Building high-converting digital products that look sharp and perform even better.
 
-<br/>
+<p>
 
 <a href="https://www.digitalwharf.com">
-  <img src="https://img.shields.io/badge/Website-digitalwharf.com-D6B75A?style=for-the-badge&logo=google-chrome&logoColor=111827" />
+<img src="https://img.shields.io/badge/Website-Digital%20Wharf-C9A857?style=for-the-badge" />
 </a>
+
 <a href="mailto:digitalwharf.co@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Us-1F2937?style=for-the-badge&logo=gmail&logoColor=D6B75A" />
+<img src="https://img.shields.io/badge/Contact-Email-111827?style=for-the-badge" />
 </a>
+
+</p>
 
 </div>
 
 ---
 
-## What We Build
+# ⚓ About Digital Wharf
 
-We help startups, businesses, and growing brands launch digital products that look premium, perform fast, and scale with confidence.
+Digital Wharf is a premium software agency focused on building modern websites, scalable web applications, mobile experiences, and AI-powered solutions.
 
-| Service | What You Get |
-|---|---|
-| Custom Website Development | Premium, responsive, conversion-focused websites |
-| Web Application Development | Scalable dashboards, portals, SaaS platforms, and internal tools |
-| Mobile App Development | Cross-platform mobile apps with clean UI and reliable performance |
-| UI/UX Design | Modern interfaces designed for clarity, trust, and conversion |
-| AI Solutions | AI-powered features, automation, chatbots, and workflow tools |
-| Performance Optimization | Faster loading, better structure, and stronger user experience |
+We combine clean design, robust engineering, and business-focused thinking to help ambitious companies launch, scale, and grow with confidence.
 
 ---
 
-## Tech Stack
+# 🚀 Our Services
+
+### Custom Website Development
+
+Conversion-focused websites designed to elevate brands and generate measurable results.
+
+### Web Application Development
+
+Scalable platforms, SaaS products, dashboards, admin panels, portals, and custom business systems.
+
+### Mobile App Development
+
+Cross-platform mobile applications built for performance, usability, and growth.
+
+### UI/UX Design
+
+Modern interfaces that balance aesthetics, usability, accessibility, and conversion.
+
+### AI Solutions
+
+AI integrations, workflow automation, intelligent assistants, and productivity systems.
+
+### Performance Optimization
+
+Website speed improvements, technical audits, and conversion-focused enhancements.
+
+---
+
+# 🛠 Technology Stack
 
 <div align="center">
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+### Frontend
 
-### Backend  
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
+
+### Backend
+
 <img src="https://skillicons.dev/icons?i=django,nodejs,express,python,postgres,mongodb" />
 
-### Mobile & DevOps  
-<img src="https://skillicons.dev/icons?i=flutter,dart,aws,vercel,docker,githubactions,git" />
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,vercel" />
 
 </div>
 
 ---
 
-## Why Digital Wharf
+# 🎯 What Makes Us Different
 
-```text
-Clean Design        → Premium visual experience
-Scalable Code       → Built for long-term growth
-Fast Performance    → Better UX and stronger conversion
-Reliable Delivery   → Clear process, clean execution
-Business Focus      → We build for outcomes, not just screens
-```
+### Performance First
+
+Every project is engineered for speed, responsiveness, and reliability.
+
+### Business Focused
+
+We don't just build software. We build solutions that support growth.
+
+### Clean Architecture
+
+Maintainable codebases designed for long-term scalability.
+
+### Premium Design
+
+Interfaces that inspire trust, elevate brands, and improve conversion.
+
+### Reliable Delivery
+
+Structured workflows, transparent communication, and quality execution.
 
 ---
 
-## Our Development Standard
+# 📈 Our Development Process
 
 ```mermaid
 flowchart LR
-    A[Discovery] --> B[UI/UX Design]
-    B --> C[Development]
-    C --> D[Testing]
-    D --> E[Launch]
-    E --> F[Maintenance & Growth]
+
+A[Discovery] --> B[Strategy]
+B --> C[UI/UX Design]
+C --> D[Development]
+D --> E[Testing]
+E --> F[Deployment]
+F --> G[Growth & Maintenance]
 ```
 
 ---
 
-## Featured Focus Areas
+# 🌟 Core Focus Areas
 
-- Conversion-focused business websites  
-- Landing pages for campaigns and launches  
-- SaaS dashboards and admin panels  
-- Booking, CRM, ERP, and internal systems  
-- Mobile apps for startups and service businesses  
-- AI automation and smart workflow tools  
+- Business Websites
+- Startup Launch Platforms
+- SaaS Products
+- Internal Business Systems
+- Client Portals
+- Admin Dashboards
+- Mobile Applications
+- AI Automation
+- Workflow Optimization
+- Digital Transformation
+
+---
+
+# 🌐 Digital Wharf Ecosystem
+
+```text
+Digital Wharf
+│
+├── Premium Websites
+├── Web Applications
+├── Mobile Apps
+├── AI Solutions
+├── Business Automation
+└── Long-Term Growth Systems
+```
+
+---
+
+# 📞 Let's Build Something Great
+
+Whether you're launching a startup, scaling an existing business, or modernizing internal operations, we're ready to help.
+
+<div align="center">
+
+### ⚓ Digital Wharf
+
+Premium Software Agency
+
+Web Development • Mobile Apps • AI Solutions
+
+🌐 https://www.digitalwharf.com
+
+📧 digitalwharf.co@gmail.com
+
+</div>
 
 ---
 
 <div align="center">
 
-## Work With Us
-
-Have a project in mind? Let’s build something sharp, fast, and scalable.
-
-<a href="https://www.digitalwharf.com">
-  <img src="https://img.shields.io/badge/Book%20a%20Meeting-D6B75A?style=for-the-badge&logo=google-calendar&logoColor=111827" />
-</a>
-
-<br/><br/>
-
-**Digital Wharf**  
-Software Agency | Web Development | Mobile Apps | AI Solutions  
+### Building digital products that look sharp and perform even better.
 
 </div>
